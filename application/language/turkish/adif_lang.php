@@ -9,8 +9,8 @@ Topbar
 ___________________________________________________________________________________________
 */
 
-$lang['adif_import'] = "ADIF Import";
-$lang['adif_export'] = "ADIF Export";
+$lang['adif_import'] = "ADIF İçe Aktar";
+$lang['adif_export'] = "ADIF Dışa Aktar";
 // $lang['lotw_title']                      --> application/language/english/lotw_lang.php
 $lang['darc_dcl'] = "DARC DCL";
 
